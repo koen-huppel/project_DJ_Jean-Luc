@@ -1,6 +1,7 @@
 * {
-    /* Alle elementen krijg 0 margin */ 
+    /* Alle elementen krijg 0 margin en 0 padding*/ 
     margin: 0px;
+    padding: 0px;
     /* Alleen nodig voor content-left/right class */
     box-sizing:border-box;
 }
